@@ -1,7 +1,26 @@
 /* Put your CSS rules here: */
+.picture_container {
+  border: 10px solid blue;
+  padding: 10px 10px 0px 0px;
+  background-color: black;
+}
 
-
-
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.underlined {
+  text-decoration: underline;
+}
+.tiled {
+  width: 100%;
+  background-color: white;
+  height: 10px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+}
 
 
 /* These are for the exercise, please don't edit them! */
